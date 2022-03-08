@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm newbie Python Developer
 
-### I'm 24 years old, from Georgia 🇬🇪.
+### I'm 24 years old, from Georgia 🇬🇪. I will tell you a bit about myself.
 
 ## Hobbies:
 - 💻 Coding
