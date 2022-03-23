@@ -20,7 +20,7 @@ So I think I'm better today than I was yesterday 🙃.
 - <div style="display: flex; align-items: center"><span style="margin-right: 1rem">HTML</span><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"><span style="margin-right: 1rem">CSS</span><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Python</span><img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" style="width: 1rem; margin-left: 1rem"></div>
-- - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Jinja</span><img src="https://quintagroup.com/cms/python/images/jinja2.png/@@images/image.png" style="width: 1rem; margin-left: 1rem"></div>
+- <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Jinja</span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jinja_software_logo.svg/1200px-Jinja_software_logo.svg.png" style="width: 1rem; margin-left: 1rem"></div>
 
 
 ## Contact Me:
