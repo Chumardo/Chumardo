@@ -21,7 +21,7 @@ So I think I'm better today than I was yesterday 🙃.
 - <div style="display: flex; align-items: center"><span style="margin-right: 1rem">CSS</span><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Python</span><img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Jinja</span><img src="https://quintagroup.com/cms/python/images/jinja2.png/@@images/image.png" style="width: 1rem; margin-left: 1rem"></div>
-- <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Jinja</span><img src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo-thumbnail.png" style="width: 1rem; margin-left: 1rem"></div>
+- <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Flask</span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEc_yYCT99Dnpaprgy1xWXbL6Z8oxirOIm9B2Thbx5J9-_pieqtNxsQKoeRU3UkggToCI&usqp=CAU" style="width: 1rem; margin-left: 1rem"></div>
 
 
 ## Contact Me:
