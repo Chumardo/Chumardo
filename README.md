@@ -28,3 +28,4 @@ So I think I'm better today than I was yesterday 🙃.
 
 #### <a href="https://www.facebook.com/dachigiorgadzee/" target="_blank">Facebook</a>
 #### <a href="https://ge.linkedin.com/in/dachi-giorgadze-8a4101185" target="_blank">Linkedin</a>
+#### <a href="https://www.instagram.com/dachigiorgadzee/" target="_blank">Instagram</a>
