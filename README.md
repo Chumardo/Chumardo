@@ -22,7 +22,7 @@ So I think I'm better today than I was yesterday 🙃.
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Python </span><img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Jinja </span><img src="https://quintagroup.com/cms/python/images/jinja2.png/@@images/image.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Flask </span><img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" style="width: 1rem; margin-left: 1rem"></div>
-- <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Pandas </span><img src="https://www.pinclipart.com/picdir/middle/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" style="width: 1rem; margin-left: 1rem"></div>
+- <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Pandas </span><img src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png" style="width: 1rem; margin-left: 1rem"></div>
 
 
 ## Contact Me:
