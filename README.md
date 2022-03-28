@@ -24,6 +24,7 @@ So I think I'm better today than I was yesterday 🙃.
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Flask </span><img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Pandas </span><img src="https://image.pngaaa.com/296/1947296-middle.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">SQLAlchemy </span><img src="https://img.stackshare.io/service/1839/q5uAkmy7.png" style="width: 1rem; margin-left: 1rem"></div>
+- <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Selenium </span><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="width: 1rem; margin-left: 1rem"></div>
 
 
 ## Contact Me:
