@@ -1,8 +1,8 @@
 ##  Dachi Giorgadze
 
-## 👋 Hi there, I'm newbie Python Developer
+## 👋 Hi there.
 
-### I'm 24 years old, from Georgia 🇬🇪. I will tell you a bit about myself.
+### I'm 24 years old, from Georgia 🇬🇪
 
 ## Hobbies:
 - 💻 Coding
