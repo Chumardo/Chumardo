@@ -3,6 +3,7 @@
 ## 👋 Hi there.
 
 ### I'm 24 years old, from Georgia 🇬🇪
+I started learning Python in January 2022, since then I am trying to improve my skills.
 
 ## Hobbies:
 - 💻 Coding
