@@ -1,4 +1,9 @@
-##  Dachi Giorgadze
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chumardo&count_private=true&theme=radical" />
+</a>
+<a style="margin-top: 20px" href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chumardo&layout=compact" />
+</a>
 
 ## 👋 Hi there.
 
