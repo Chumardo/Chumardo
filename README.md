@@ -21,6 +21,7 @@ I started learning Python in January 2022, since then I am trying to improve my 
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Pandas </span><img src="https://image.pngaaa.com/296/1947296-middle.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">SQLAlchemy </span><img src="https://img.stackshare.io/service/1839/q5uAkmy7.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Selenium </span><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="width: 1rem; margin-left: 1rem"></div>
+- <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">OpenCV </span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/640px-OpenCV_Logo_with_text.png" style="width: 1rem; margin-left: 1rem"></div>
 
 
 ## Contact Me:
