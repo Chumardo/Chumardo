@@ -31,6 +31,7 @@ I started learning Python in January 2022, since then I am trying to improve my 
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Selenium </span><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">OpenCV </span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/640px-OpenCV_Logo_with_text.png" style="width: 1rem; margin-left: 1rem"></div>
 - <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">Scikit Learn </span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" style="width: 1rem; margin-left: 1rem"></div>
+- <div style="display: flex; align-items: center"> <span style="margin-right: 1rem">TensorFlow </span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/640px-Tensorflow_logo.svg.png" style="width: 1rem; margin-left: 1rem"></div>
 
 
 ## Contact Me:
