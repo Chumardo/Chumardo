@@ -9,7 +9,8 @@
 
 ### I'm from Georgia 🇬🇪
 
-I started learning Python in January 2022, since then I am trying to improve my skills to be better today than yesterday.
+In 2013, I wrote a calculator for the first time (C++) and gave up because I didn't consider it as a big achievement and thought that everyone could do it. On January 2, 2022, I finally chose programming and started learning Python, since then I am trying to improve my skills and I can confidently say that I am motivated by the desire to learn new things so that I can be a better version of myself every single day.
+
 
 ## Hobbies:
 - 💻 Coding
